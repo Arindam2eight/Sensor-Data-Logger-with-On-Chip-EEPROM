@@ -1,0 +1,12 @@
+   # CCS build output
+   Debug/
+   Release/
+   *.obj
+   *.out
+   *.map
+   *.d
+   *.pp
+
+   # CCS / Eclipse local files
+   .launches/
+   .metadata/
